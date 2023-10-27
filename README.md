@@ -70,7 +70,9 @@ The Grid search and multiple trials were run on random forest model to determine
 
 Results: 
 The model performed better than expected.  The accuracy was above 97.5%.  However this is not a good performance indicator due to the imbalanced dataset.   The f1 score was 87.9% and both the recall and precision were above 97%.  This indicates that the both the false negatives and false positive predictions are low as compared to the true positive.   This can be seen in the confusion matrix below Fig 9.  
- 
+
+
+  ![](confusionmatrix.jpg)  
  Fig 9:  Build Model Confusion Matrix
 
 
