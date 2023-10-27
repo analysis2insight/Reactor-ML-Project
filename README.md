@@ -78,9 +78,9 @@ The model performed better than expected.  The accuracy was above 97.5%.  Howeve
 
 The ROC curve result of 0.97 indicates that the model accuracy is high.  
 
-![](roc curve.jpg)  
+![](roccurve.jpg)  
  
-A review of the feature importance figure (Fig 11, showed that there was not one or two overriding important features.  It shows 20 features that have similar importance.  This was expected from the correlation in process data previously discussed.   All features were kept in the model to make it as accurate as possible since the target( build-up) indicator potential was so low in the imbalanced dataset.  Even the smallest change due to the less important features may push it over the edge into a true(build-up) scenario.   
+A review of the feature importance figure (Fig 11, showed that there was not one or two overriding important features.  It shows 20 features that have similar importance.  This was expected from the correlation in process data previously discussed.   Some of the original features were removed from the model to make it as accurate as possible since the target( build-up) indicator potential was so low in the imbalanced dataset.  Even the smallest change due to the less important features may push it over the edge into a true(build-up) scenario.   
 
  
 ![](featimportance.jpg)  
@@ -89,7 +89,7 @@ Fig 11:   Feature importance
 
 
 
-
+#Conclusion and Recommendations / use:   
 
 
 
