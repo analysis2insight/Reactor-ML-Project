@@ -1,5 +1,5 @@
 # Chemical Reactor Process Machine Learning Project 
-
+![](reactors.jpg)  
 ## Research Topic
 The goal of this proposal was to determine if machine learning can be used to predict build up scenarios in a Tower Loop reactor based on process conditions and equipment setpoint.  By determining which features (variables) are most influential in reactor buildup scenarios, additional controls could be put in place to avoid the conditions that lead to production downtime. In addition to defining potential areas of concern it would be beneficial to provide the operators feedback on the highest areas of impact for changes they are planning to make on the system. 
 
